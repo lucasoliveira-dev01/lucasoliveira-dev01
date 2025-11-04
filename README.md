@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia da Computação e apaixonado por tecnologia. Tenho formação complementar em Cibersegurança de Redes, com cursos realizados pela Google, e atualmente estou focado em aprofundar meus conhecimentos em Java (orientado a objetos), desenvolvimento de APIs, Webhook e banco de dados.<br>Estou colocando esses aprendizados em prática através de projetos pessoais, que você pode conferir aqui no meu GitHub.</p>
+<p align="left">Sou estudante de Engenharia da Computação e apaixonado por tecnologia. Tenho formação complementar em Cibersegurança de Redes, com cursos realizados pela Google, e atualmente estou focado em aprofundar meus conhecimentos em Java (orientado a objetos), desenvolvimento de APIs, Webhook e banco de dados.<br>Estou colocando esses aprendizados em prática através de projetos pessoais que estou aprendendo no curso Javanauta, que você pode conferir aqui no meu GitHub.</p>
 
 ###
 
