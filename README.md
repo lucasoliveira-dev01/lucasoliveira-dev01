@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Back-end | Java | Rede De computadores | API | Webhook</p>
+<p align="left">Desenvolvedor Backend | Java | Spring Boot | APIs REST | SQL | NoSQL | Git | Docker | Microservices | Swagger</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia da Computação e apaixonado por tecnologia. Tenho formação complementar em Cibersegurança de Redes, com cursos realizados pela Google, e atualmente estou focado em aprofundar meus conhecimentos em Java, desenvolvimento de APIs, banco de dados e entre outros.<br>Estou colocando esses aprendizados em prática através de projetos pessoais que estou desenvolvendo e que você pode conferir aqui no meu GitHub.</p>
+<p align="left">Estou cursando o 3º ano de Engenharia da Computação na instituição FHO (presencial). Desenvolvedor Backend Java, com foco em Spring Boot e APIs REST, possuindo experiência em projetos pessoais que utilizam arquitetura em camadas, Spring Security + JWT, integração com APIs externas e bancos de dados relacionais e não relacionais. Tenho experiência com microsserviços, BFF, Git/GitHub, Swagger e Docker, sempre buscando evoluir tecnicamente e contribuir com código limpo e bem estruturado...</p>
 
 ###
 
@@ -23,11 +23,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
 ###
